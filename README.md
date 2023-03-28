@@ -1,5 +1,5 @@
 # # 💫 About Me:
-I'm currently working on Web app "QuizMaster" (similar to popular game "Kahoot")<br><br>I'm currently learning more about Java, Spring Boot and React.<br><br>
+I'm currently working on Web app "QuizMaster" (similar to popular game "Kahoot") using React, SpringBoot, Mui material templates. <br><br>Learning more about Java, Spring Boot and React.<br><br>
 
 
 ## 🌐 Socials:
