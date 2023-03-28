@@ -15,7 +15,7 @@ I'm currently working on Web app "QuizMaster" (similar to popular game "Kahoot")
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SeverinaBo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Favourite Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
