@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web app named "QuizMaster" (similar to popular game "Kahoot") using ReactJS for client side, SpringBoot for backend side.<br>Here you can see the project https://github.com/SeverinaBo/QuizMaster2/tree/myMain <br>👯 I’m looking to collaborate on projects where I can grow and use my knowledge and experience.<br>🤝 I’m looking for open work space as a Java or React developer.<br>🌱 I’m currently learning more about Java, React and Spring Boot.<br>💬 Communication languages - English, Lithuanian, Russian.<br>
+🔭 I’m currently working on Web app named "QuizMaster" (similar to popular game "Kahoot") using ReactJS for client side, SpringBoot for backend side.<br>- Here you can see the "QuizMaster" project: https://github.com/SeverinaBo/QuizMaster2/tree/myMain <br>- Here you can see simple TicTacToe game created using Java: https://github.com/SeverinaBo/TicTacToe <br>- Here you can find "Budget" project created using Java: https://github.com/SeverinaBo/ProjectBudget <br>👯 I’m looking to collaborate on projects where I can grow and use my knowledge and experience.<br>🤝 I’m looking for open work space as a Java or React developer.<br>🌱 I’m currently learning more about Java, React and Spring Boot.<br>💬 Communication languages - English, Lithuanian, Russian.<br>
 
 
 ## 🌐 Socials:
